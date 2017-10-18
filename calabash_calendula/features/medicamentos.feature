@@ -7,7 +7,7 @@ Feature: Agregar y eliminar medicamento
     And I press "Medicines"
     And I press view with id "add_button"
     And I press "Cancel"
-    And I enter "Acetaminofem" into input field number 1
+    And I enter "dolex" into input field number 1
     And I press the enter button
     And I press view with id "med_presentation_2"
     And I press view with id "add_button"
@@ -17,8 +17,8 @@ Feature: Agregar y eliminar medicamento
     And I swipe left
     And I press "Medicines"
     And I wait for 2 seconds
-    And I press "Acetaminofem"
-    And I enter "mmmmm" into input field number 1
+    And I press "dolex"
+    And I enter "x" into input field number 1
     And I press the menu key
     And I press "Remove"
     And I press "Yes"
