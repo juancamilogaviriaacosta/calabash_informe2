@@ -1,0 +1,50 @@
+query "*"
+exit
+start_test_server_in_background
+query "*"
+exit
+start_test_server_in_background
+query "*"
+exit
+start_test_server_in_background
+query "*"
+query "*"
+start_test_server_in_background
+query "*"
+:exit
+exit
+start_test_server_in_background
+query "*"
+query "*"
+:q
+exit
+start_test_server_in_background
+:q
+start_test_server_in_background
+query "*"
+exit
+start_test_server_in_background
+query "*"
+exit
+start_test_server_in_background
+query "*"
+exit
+start_test_server_in_background
+query "*"
+query "*"
+exit
+exit
+query "*"
+query "*"
+exit
+start_test_server_in_background
+query "*"
+query "*"
+query "*"
+exit
+exit
+query "*"
+start_test_server_in_background
+query "*"
+exit
+exit
